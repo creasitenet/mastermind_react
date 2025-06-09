@@ -21,7 +21,7 @@ Ce projet utilise les technologies suivantes :
 
 1. Clonez ce dépôt sur votre machine locale :
 ```bash
-git clone https://github.com/votre-nom/mastermind_react.git
+git clone https://github.com/creasitenet/mastermind_react.git
 cd mastermind_react
 ```
 
